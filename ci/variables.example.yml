@@ -1,0 +1,16 @@
+cf-api-url: CF_API_URL
+cf-username: CF_USERNAME
+cf-password: CF_PASSWORD
+cf-org: CF_ORG
+
+aws-access-key-id: <YOUR_ACCESS_KEY>
+aws-secret-access-key: <YOUR_SECRET_KEY>
+aws-bucket: <YOUR_AWS_S3_BUCKET>
+
+
+github-repository: git@github.com:GITHUB_USERNAME/pal-tracker.git
+github-private-key: |
+  -----BEGIN RSA PRIVATE KEY-----
+  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQChYBhQe+OkNvoP1BpbS96C2NH5BBXeEG05KKHxXmuUPVCp9rNGfLkMrnT0aYPHhwPNf1RKMdbJycLsbJo42mDXYiCxg0RWlZpbKC6zFntmVKCrKlsfWs2fcgH5N2DcJan20zYYmFSvw0AAWddW2ssT7393roZ7eTs9sFx/Nj9xB8Or+y14P0YvARtimaoZZX6sO/BFh+E48yEMt2lzrJddVqgG3AFZb2bPjs5iYsgAXfjjf6WbEIaospuUqhVwPvVDKt6aFE1FRznbZbil0/Xlh13XrsilSocmByHWb9OXDtJeFGvlsETqunXSkENL6soJjwLVtC6T58RYfnUKP5CLLZugXyfHIR4TH6EFs3kyqqQeJDrsa+B2I/UxgmDM7alR6nI9xL4gPOzega8EUf+QcpTtZz/5REzRHPyvs7waGARWQmwVFs+7MJdyA+rjj2BpvKEZ/cQsRJkayBurKJghxKJO5AYIy4SjRnb5f1zLVWRbPPXJHL4WIKJ9r1gA+wuUvG5dSBQptfH+j3meUh0+LDujI4ObG3b/ijAW/0Jq0QuCUKTkXbWIu4JbabfIv/il9cazeoBiScDuH+XYH4Ee7g2M0tSIxMD9Ohdqmzqy8s5VylVmFZWjF7TVEzzACxsFIEWfZUzb5NtGPqPlLcZ1vY8x1PCJZ2XU7YDci5p7fw== sim.789.team@gmail.com
+
+  -----END RSA PRIVATE KEY-----
