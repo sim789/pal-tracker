@@ -16,7 +16,7 @@ public class WelcomeController {
     }
 
 
-    @GetMapping("/hi")
+    @GetMapping("/")
     public String sayHello() {
         return message ;// "Hello from Spring boot application";
     }
